@@ -1192,6 +1192,1197 @@
           ]
         }
       ]
+    },
+    {
+      "id": "the_mushroom_village_beneath_the_full_moon",
+      "title": "The Mushroom Village Beneath The Full Moon",
+      "description": "On a full-moon night at the end of autumn, the forest grows colder, and the little mushroom villages hidden among its trees begin disappearing one by one beneath an ocean of fallen leaves. In one village, every mushroom is a musician, and each plays a different instrument: cello, violin, piano, or another small voice in their woodland orchestra. They know that their village, too, will soon vanish beneath the leaves, but nobody puts away an instrument or abandons the music. Instead, they continue playing together, their melodies rising through the cold air as the moon illuminates the last roofs and pathways. Gradually, the golden-brown leaves surround the houses, cover the little streets, and swallow the village, while the musicians continue their gentle, living conversation. Their music is neither a protest against disappearing nor a surrender to sadness, but a joyful expression of having been alive together, continuing until the forest becomes quiet.",
+      "scenes": [
+        {
+          "id": "the_mushroom_village_beneath_the_full_moon/track_01_batch_story/f26d5af8c0f91437",
+          "title": "Track 01 Batch Story",
+          "order": 1,
+          "prompt": "On a full-moon night at the end of autumn, the forest grows colder, and the little mushroom villages hidden among its trees begin disappearing one by one beneath an ocean of fallen leaves. In one village, every mushroom is a musician, and each plays a different instrument: cello, violin, piano, or another small voice in their woodland orchestra. They know that their village, too, will soon vanish beneath the leaves, but nobody puts away an instrument or abandons the music. Instead, they continue playing together, their melodies rising through the cold air as the moon illuminates the last roofs and pathways. Gradually, the golden-brown leaves surround the houses, cover the little streets, and swallow the village, while the musicians continue their gentle, living conversation. Their music is neither a protest against disappearing nor a surrender to sadness, but a joyful expression of having been alive together, continuing until the forest becomes quiet.",
+          "recordings": [
+            {
+              "id": "studio_batch_d04584df93964efc/track_01_batch_story/1/ba494ad2-90a4-c442-042f-d9641a038bf1.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 1,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_01_batch_story/variation_01/ba494ad2-90a4-c442-042f-d9641a038bf1.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_01_batch_story/variation_01/ba494ad2-90a4-c442-042f-d9641a038bf1.flac"
+                }
+              ],
+              "filename": "ba494ad2-90a4-c442-042f-d9641a038bf1"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_01_batch_story/1/4350002a-becb-5ae5-1aa4-86328da55e74.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 1,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_01_batch_story/variation_01/4350002a-becb-5ae5-1aa4-86328da55e74.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_01_batch_story/variation_01/4350002a-becb-5ae5-1aa4-86328da55e74.flac"
+                }
+              ],
+              "filename": "4350002a-becb-5ae5-1aa4-86328da55e74"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_01_batch_story/1/d5ff825f-7058-1644-b656-3d34586231b4.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 1,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_01_batch_story/variation_01/d5ff825f-7058-1644-b656-3d34586231b4.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_01_batch_story/variation_01/d5ff825f-7058-1644-b656-3d34586231b4.flac"
+                }
+              ],
+              "filename": "d5ff825f-7058-1644-b656-3d34586231b4"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_01_batch_story/2/7f1648a0-3f50-cda3-3e75-c2267f05e9a5.flac",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "generation_turn": 2,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio-b",
+              "route": "sft_lm",
+              "batch_size": 1,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_01_batch_story/variation_02/7f1648a0-3f50-cda3-3e75-c2267f05e9a5.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_01_batch_story/variation_02/7f1648a0-3f50-cda3-3e75-c2267f05e9a5.flac"
+                }
+              ],
+              "filename": "7f1648a0-3f50-cda3-3e75-c2267f05e9a5"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_01_batch_story/3/f3fee85c-72d5-70f2-5395-8b5a2c41bf36.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 3,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio-c",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_01_batch_story/variation_03/f3fee85c-72d5-70f2-5395-8b5a2c41bf36.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_01_batch_story/variation_03/f3fee85c-72d5-70f2-5395-8b5a2c41bf36.flac"
+                }
+              ],
+              "filename": "f3fee85c-72d5-70f2-5395-8b5a2c41bf36"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_01_batch_story/3/eef8ec67-5c3a-d45e-6036-68458f377e1a.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 3,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio-c",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_01_batch_story/variation_03/eef8ec67-5c3a-d45e-6036-68458f377e1a.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_01_batch_story/variation_03/eef8ec67-5c3a-d45e-6036-68458f377e1a.flac"
+                }
+              ],
+              "filename": "eef8ec67-5c3a-d45e-6036-68458f377e1a"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_01_batch_story/3/7c081c19-01e1-e3e9-ed61-d422f3ed41cd.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 3,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio-c",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_01_batch_story/variation_03/7c081c19-01e1-e3e9-ed61-d422f3ed41cd.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_01_batch_story/variation_03/7c081c19-01e1-e3e9-ed61-d422f3ed41cd.flac"
+                }
+              ],
+              "filename": "7c081c19-01e1-e3e9-ed61-d422f3ed41cd"
+            }
+          ]
+        },
+        {
+          "id": "the_mushroom_village_beneath_the_full_moon/track_02_the_full_moon_above_the_mushroom_roofs/b45f1551ad86199f",
+          "title": "Track 02 The Full Moon Above The Mushroom Roofs",
+          "order": 2,
+          "prompt": "Luminous ambient chamber instrumental, 64 BPM, lyrical solo violin, warm cello and soft sustained synthesizer pads. Gentle repeating violin melody, slow steady pulse, rich minor-major harmonies, spacious glowing textures, restrained emotional warmth, no drums, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_d04584df93964efc/track_02_the_full_moon_above_the_mushroom_roofs/1/ec0a699f-5f6b-5703-57cd-83f4de509081.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 1,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_02_the_full_moon_above_the_mushroom_roofs/variation_01/ec0a699f-5f6b-5703-57cd-83f4de509081.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_02_the_full_moon_above_the_mushroom_roofs/variation_01/ec0a699f-5f6b-5703-57cd-83f4de509081.flac"
+                }
+              ],
+              "filename": "ec0a699f-5f6b-5703-57cd-83f4de509081"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_02_the_full_moon_above_the_mushroom_roofs/1/d2abf3d6-7183-5775-0e94-04684c437ec0.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 1,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_02_the_full_moon_above_the_mushroom_roofs/variation_01/d2abf3d6-7183-5775-0e94-04684c437ec0.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_02_the_full_moon_above_the_mushroom_roofs/variation_01/d2abf3d6-7183-5775-0e94-04684c437ec0.flac"
+                }
+              ],
+              "filename": "d2abf3d6-7183-5775-0e94-04684c437ec0"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_02_the_full_moon_above_the_mushroom_roofs/1/cdc19663-39f9-071b-f9ea-8be74f3f0ef7.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 1,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_02_the_full_moon_above_the_mushroom_roofs/variation_01/cdc19663-39f9-071b-f9ea-8be74f3f0ef7.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_02_the_full_moon_above_the_mushroom_roofs/variation_01/cdc19663-39f9-071b-f9ea-8be74f3f0ef7.flac"
+                }
+              ],
+              "filename": "cdc19663-39f9-071b-f9ea-8be74f3f0ef7"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_02_the_full_moon_above_the_mushroom_roofs/2/fb1b499f-a304-9979-0216-4f74b91d0eb0.flac",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "generation_turn": 2,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio-b",
+              "route": "sft_lm",
+              "batch_size": 1,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_02_the_full_moon_above_the_mushroom_roofs/variation_02/fb1b499f-a304-9979-0216-4f74b91d0eb0.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_02_the_full_moon_above_the_mushroom_roofs/variation_02/fb1b499f-a304-9979-0216-4f74b91d0eb0.flac"
+                }
+              ],
+              "filename": "fb1b499f-a304-9979-0216-4f74b91d0eb0"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_02_the_full_moon_above_the_mushroom_roofs/3/c7862069-1f22-0e4e-990a-949773e1e234.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 3,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio-c",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_02_the_full_moon_above_the_mushroom_roofs/variation_03/c7862069-1f22-0e4e-990a-949773e1e234.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_02_the_full_moon_above_the_mushroom_roofs/variation_03/c7862069-1f22-0e4e-990a-949773e1e234.flac"
+                }
+              ],
+              "filename": "c7862069-1f22-0e4e-990a-949773e1e234"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_02_the_full_moon_above_the_mushroom_roofs/3/95ff8a84-2add-3fca-c10c-d5fa6b9119a0.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 3,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio-c",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_02_the_full_moon_above_the_mushroom_roofs/variation_03/95ff8a84-2add-3fca-c10c-d5fa6b9119a0.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_02_the_full_moon_above_the_mushroom_roofs/variation_03/95ff8a84-2add-3fca-c10c-d5fa6b9119a0.flac"
+                }
+              ],
+              "filename": "95ff8a84-2add-3fca-c10c-d5fa6b9119a0"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_02_the_full_moon_above_the_mushroom_roofs/3/f7dcb874-6f3b-840d-960f-c05c882e9834.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 3,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio-c",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_02_the_full_moon_above_the_mushroom_roofs/variation_03/f7dcb874-6f3b-840d-960f-c05c882e9834.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_02_the_full_moon_above_the_mushroom_roofs/variation_03/f7dcb874-6f3b-840d-960f-c05c882e9834.flac"
+                }
+              ],
+              "filename": "f7dcb874-6f3b-840d-960f-c05c882e9834"
+            }
+          ]
+        },
+        {
+          "id": "the_mushroom_village_beneath_the_full_moon/track_03_every_mushroom_has_an_instrument/8e1327500c6cb73d",
+          "title": "Track 03 Every Mushroom Has An Instrument",
+          "order": 3,
+          "prompt": "Playful neoclassical chamber instrumental, 78 BPM, expressive violin, warm cello, delicate piano and softly plucked viola. Short melodic phrases passed between instruments, gentle rhythmic interplay, flowing major-minor harmonies, lively intimate acoustic sound, no drums, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_d04584df93964efc/track_03_every_mushroom_has_an_instrument/1/4c80c59b-b865-3839-2c90-7529da4f9022.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 1,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_03_every_mushroom_has_an_instrument/variation_01/4c80c59b-b865-3839-2c90-7529da4f9022.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_03_every_mushroom_has_an_instrument/variation_01/4c80c59b-b865-3839-2c90-7529da4f9022.flac"
+                }
+              ],
+              "filename": "4c80c59b-b865-3839-2c90-7529da4f9022"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_03_every_mushroom_has_an_instrument/1/bdc43253-ce02-df64-a119-8c9f048f82c2.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 1,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_03_every_mushroom_has_an_instrument/variation_01/bdc43253-ce02-df64-a119-8c9f048f82c2.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_03_every_mushroom_has_an_instrument/variation_01/bdc43253-ce02-df64-a119-8c9f048f82c2.flac"
+                }
+              ],
+              "filename": "bdc43253-ce02-df64-a119-8c9f048f82c2"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_03_every_mushroom_has_an_instrument/1/24fbdb12-8f58-1df0-bcb9-f8f84cf423fc.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 1,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_03_every_mushroom_has_an_instrument/variation_01/24fbdb12-8f58-1df0-bcb9-f8f84cf423fc.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_03_every_mushroom_has_an_instrument/variation_01/24fbdb12-8f58-1df0-bcb9-f8f84cf423fc.flac"
+                }
+              ],
+              "filename": "24fbdb12-8f58-1df0-bcb9-f8f84cf423fc"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_03_every_mushroom_has_an_instrument/2/ba75df54-b8af-76a5-1dc1-13de63ac940c.flac",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "generation_turn": 2,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio-b",
+              "route": "sft_lm",
+              "batch_size": 1,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_03_every_mushroom_has_an_instrument/variation_02/ba75df54-b8af-76a5-1dc1-13de63ac940c.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_03_every_mushroom_has_an_instrument/variation_02/ba75df54-b8af-76a5-1dc1-13de63ac940c.flac"
+                }
+              ],
+              "filename": "ba75df54-b8af-76a5-1dc1-13de63ac940c"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_03_every_mushroom_has_an_instrument/3/add86571-d954-cdb5-ce74-f717960af1c3.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 3,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio-c",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_03_every_mushroom_has_an_instrument/variation_03/add86571-d954-cdb5-ce74-f717960af1c3.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_03_every_mushroom_has_an_instrument/variation_03/add86571-d954-cdb5-ce74-f717960af1c3.flac"
+                }
+              ],
+              "filename": "add86571-d954-cdb5-ce74-f717960af1c3"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_03_every_mushroom_has_an_instrument/3/cf0e81f1-504f-ef44-d3da-555f1f705f3c.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 3,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio-c",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_03_every_mushroom_has_an_instrument/variation_03/cf0e81f1-504f-ef44-d3da-555f1f705f3c.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_03_every_mushroom_has_an_instrument/variation_03/cf0e81f1-504f-ef44-d3da-555f1f705f3c.flac"
+                }
+              ],
+              "filename": "cf0e81f1-504f-ef44-d3da-555f1f705f3c"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_03_every_mushroom_has_an_instrument/3/15fa8510-2d8b-b983-bcd0-50ee7620de71.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 3,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio-c",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_03_every_mushroom_has_an_instrument/variation_03/15fa8510-2d8b-b983-bcd0-50ee7620de71.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_03_every_mushroom_has_an_instrument/variation_03/15fa8510-2d8b-b983-bcd0-50ee7620de71.flac"
+                }
+              ],
+              "filename": "15fa8510-2d8b-b983-bcd0-50ee7620de71"
+            }
+          ]
+        },
+        {
+          "id": "the_mushroom_village_beneath_the_full_moon/track_04_the_cello_beneath_the_old_tree/1bc2db85b66d44ed",
+          "title": "Track 04 The Cello Beneath The Old Tree",
+          "order": 4,
+          "prompt": "Melancholic ambient chamber instrumental, 60 BPM, expressive solo cello, delicate piano and warm sustained synthesizer drones. Long lyrical cello melody, slow repeating piano figures, gentle minor harmonies, soft gradual swells, intimate resonant atmosphere, no percussion, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_d04584df93964efc/track_04_the_cello_beneath_the_old_tree/1/ba7b0816-7ea8-bbf0-68b2-f868bd9f58e0.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 1,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_04_the_cello_beneath_the_old_tree/variation_01/ba7b0816-7ea8-bbf0-68b2-f868bd9f58e0.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_04_the_cello_beneath_the_old_tree/variation_01/ba7b0816-7ea8-bbf0-68b2-f868bd9f58e0.flac"
+                }
+              ],
+              "filename": "ba7b0816-7ea8-bbf0-68b2-f868bd9f58e0"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_04_the_cello_beneath_the_old_tree/1/b7aed5fe-2173-2cf4-b676-a428ceb61204.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 1,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_04_the_cello_beneath_the_old_tree/variation_01/b7aed5fe-2173-2cf4-b676-a428ceb61204.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_04_the_cello_beneath_the_old_tree/variation_01/b7aed5fe-2173-2cf4-b676-a428ceb61204.flac"
+                }
+              ],
+              "filename": "b7aed5fe-2173-2cf4-b676-a428ceb61204"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_04_the_cello_beneath_the_old_tree/1/dc33bcfe-8511-83c1-ed41-8dc8f3ff969c.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 1,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_04_the_cello_beneath_the_old_tree/variation_01/dc33bcfe-8511-83c1-ed41-8dc8f3ff969c.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_04_the_cello_beneath_the_old_tree/variation_01/dc33bcfe-8511-83c1-ed41-8dc8f3ff969c.flac"
+                }
+              ],
+              "filename": "dc33bcfe-8511-83c1-ed41-8dc8f3ff969c"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_04_the_cello_beneath_the_old_tree/2/e1c1faaa-4e89-3338-842d-24fe7e5983cf.flac",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "generation_turn": 2,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio-b",
+              "route": "sft_lm",
+              "batch_size": 1,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_04_the_cello_beneath_the_old_tree/variation_02/e1c1faaa-4e89-3338-842d-24fe7e5983cf.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_04_the_cello_beneath_the_old_tree/variation_02/e1c1faaa-4e89-3338-842d-24fe7e5983cf.flac"
+                }
+              ],
+              "filename": "e1c1faaa-4e89-3338-842d-24fe7e5983cf"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_04_the_cello_beneath_the_old_tree/3/78dc6cdd-b3a7-3d4a-e99d-6f3fa0ce7355.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 3,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio-c",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_04_the_cello_beneath_the_old_tree/variation_03/78dc6cdd-b3a7-3d4a-e99d-6f3fa0ce7355.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_04_the_cello_beneath_the_old_tree/variation_03/78dc6cdd-b3a7-3d4a-e99d-6f3fa0ce7355.flac"
+                }
+              ],
+              "filename": "78dc6cdd-b3a7-3d4a-e99d-6f3fa0ce7355"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_04_the_cello_beneath_the_old_tree/3/d08ef362-98eb-f8d6-27dc-51527bcc838b.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 3,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio-c",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_04_the_cello_beneath_the_old_tree/variation_03/d08ef362-98eb-f8d6-27dc-51527bcc838b.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_04_the_cello_beneath_the_old_tree/variation_03/d08ef362-98eb-f8d6-27dc-51527bcc838b.flac"
+                }
+              ],
+              "filename": "d08ef362-98eb-f8d6-27dc-51527bcc838b"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_04_the_cello_beneath_the_old_tree/3/0d7e94eb-cd6f-9a27-ff19-68a9a84954ee.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 3,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio-c",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_04_the_cello_beneath_the_old_tree/variation_03/0d7e94eb-cd6f-9a27-ff19-68a9a84954ee.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_04_the_cello_beneath_the_old_tree/variation_03/0d7e94eb-cd6f-9a27-ff19-68a9a84954ee.flac"
+                }
+              ],
+              "filename": "0d7e94eb-cd6f-9a27-ff19-68a9a84954ee"
+            }
+          ]
+        },
+        {
+          "id": "the_mushroom_village_beneath_the_full_moon/track_05_the_violin_refuses_to_stop/0c29e9f564837a04",
+          "title": "Track 05 The Violin Refuses To Stop",
+          "order": 5,
+          "prompt": "Passionate neoclassical string instrumental, 84 BPM, lyrical solo violin, warm violas and deep cellos. Flowing ascending melody, continuous rhythmic movement, expressive legato bowing, rich minor-to-major harmonic development, joyful restrained crescendo, strings only, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_d04584df93964efc/track_05_the_violin_refuses_to_stop/1/6aa274e7-dfff-39eb-ec76-00acf19613de.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 1,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_05_the_violin_refuses_to_stop/variation_01/6aa274e7-dfff-39eb-ec76-00acf19613de.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_05_the_violin_refuses_to_stop/variation_01/6aa274e7-dfff-39eb-ec76-00acf19613de.flac"
+                }
+              ],
+              "filename": "6aa274e7-dfff-39eb-ec76-00acf19613de"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_05_the_violin_refuses_to_stop/1/5fab3664-496f-3bf6-e92e-19e95e697592.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 1,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_05_the_violin_refuses_to_stop/variation_01/5fab3664-496f-3bf6-e92e-19e95e697592.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_05_the_violin_refuses_to_stop/variation_01/5fab3664-496f-3bf6-e92e-19e95e697592.flac"
+                }
+              ],
+              "filename": "5fab3664-496f-3bf6-e92e-19e95e697592"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_05_the_violin_refuses_to_stop/1/452a1680-0e90-9e0d-9176-fd963638822d.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 1,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_05_the_violin_refuses_to_stop/variation_01/452a1680-0e90-9e0d-9176-fd963638822d.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_05_the_violin_refuses_to_stop/variation_01/452a1680-0e90-9e0d-9176-fd963638822d.flac"
+                }
+              ],
+              "filename": "452a1680-0e90-9e0d-9176-fd963638822d"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_05_the_violin_refuses_to_stop/2/3f72c56f-89e5-77b1-ed04-343c6b7b2649.flac",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "generation_turn": 2,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio-b",
+              "route": "sft_lm",
+              "batch_size": 1,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_05_the_violin_refuses_to_stop/variation_02/3f72c56f-89e5-77b1-ed04-343c6b7b2649.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_05_the_violin_refuses_to_stop/variation_02/3f72c56f-89e5-77b1-ed04-343c6b7b2649.flac"
+                }
+              ],
+              "filename": "3f72c56f-89e5-77b1-ed04-343c6b7b2649"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_05_the_violin_refuses_to_stop/3/05b8063d-e200-0630-c2f0-aafb9a2d5cb9.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 3,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio-c",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_05_the_violin_refuses_to_stop/variation_03/05b8063d-e200-0630-c2f0-aafb9a2d5cb9.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_05_the_violin_refuses_to_stop/variation_03/05b8063d-e200-0630-c2f0-aafb9a2d5cb9.flac"
+                }
+              ],
+              "filename": "05b8063d-e200-0630-c2f0-aafb9a2d5cb9"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_05_the_violin_refuses_to_stop/3/c5e4f8db-dd63-e309-431e-3475da107619.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 3,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio-c",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_05_the_violin_refuses_to_stop/variation_03/c5e4f8db-dd63-e309-431e-3475da107619.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_05_the_violin_refuses_to_stop/variation_03/c5e4f8db-dd63-e309-431e-3475da107619.flac"
+                }
+              ],
+              "filename": "c5e4f8db-dd63-e309-431e-3475da107619"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_05_the_violin_refuses_to_stop/3/691e5946-a43a-1606-4b52-596bb55f3e7c.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 3,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio-c",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_05_the_violin_refuses_to_stop/variation_03/691e5946-a43a-1606-4b52-596bb55f3e7c.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_05_the_violin_refuses_to_stop/variation_03/691e5946-a43a-1606-4b52-596bb55f3e7c.flac"
+                }
+              ],
+              "filename": "691e5946-a43a-1606-4b52-596bb55f3e7c"
+            }
+          ]
+        },
+        {
+          "id": "the_mushroom_village_beneath_the_full_moon/track_06_the_ocean_of_fallen_leaves/3c6cf98f24048219",
+          "title": "Track 06 The Ocean Of Fallen Leaves",
+          "order": 6,
+          "prompt": "Atmospheric ambient chamber instrumental, 62 BPM, soft piano arpeggios, sustained cello, delicate violin harmonics and warm analog synthesizer pads. Slow wave-like harmonic movement, repeating descending motifs, spacious layered textures, gentle melancholic atmosphere, no drums, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_d04584df93964efc/track_06_the_ocean_of_fallen_leaves/1/7e437ce8-f975-9b3a-ce2b-8f651487a5d8.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 1,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_06_the_ocean_of_fallen_leaves/variation_01/7e437ce8-f975-9b3a-ce2b-8f651487a5d8.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_06_the_ocean_of_fallen_leaves/variation_01/7e437ce8-f975-9b3a-ce2b-8f651487a5d8.flac"
+                }
+              ],
+              "filename": "7e437ce8-f975-9b3a-ce2b-8f651487a5d8"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_06_the_ocean_of_fallen_leaves/1/b8b21402-7a37-e995-2b24-dc11e41a9362.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 1,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_06_the_ocean_of_fallen_leaves/variation_01/b8b21402-7a37-e995-2b24-dc11e41a9362.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_06_the_ocean_of_fallen_leaves/variation_01/b8b21402-7a37-e995-2b24-dc11e41a9362.flac"
+                }
+              ],
+              "filename": "b8b21402-7a37-e995-2b24-dc11e41a9362"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_06_the_ocean_of_fallen_leaves/1/ea5ade6b-7863-017a-8438-0e87ef4554c0.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 1,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_06_the_ocean_of_fallen_leaves/variation_01/ea5ade6b-7863-017a-8438-0e87ef4554c0.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_06_the_ocean_of_fallen_leaves/variation_01/ea5ade6b-7863-017a-8438-0e87ef4554c0.flac"
+                }
+              ],
+              "filename": "ea5ade6b-7863-017a-8438-0e87ef4554c0"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_06_the_ocean_of_fallen_leaves/2/cb9e4237-bcee-4821-57ce-db02b030bcb5.flac",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "generation_turn": 2,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio-b",
+              "route": "sft_lm",
+              "batch_size": 1,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_06_the_ocean_of_fallen_leaves/variation_02/cb9e4237-bcee-4821-57ce-db02b030bcb5.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_06_the_ocean_of_fallen_leaves/variation_02/cb9e4237-bcee-4821-57ce-db02b030bcb5.flac"
+                }
+              ],
+              "filename": "cb9e4237-bcee-4821-57ce-db02b030bcb5"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_06_the_ocean_of_fallen_leaves/3/4abf6039-45e7-9fad-1a34-28a0cfd87db7.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 3,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio-c",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_06_the_ocean_of_fallen_leaves/variation_03/4abf6039-45e7-9fad-1a34-28a0cfd87db7.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_06_the_ocean_of_fallen_leaves/variation_03/4abf6039-45e7-9fad-1a34-28a0cfd87db7.flac"
+                }
+              ],
+              "filename": "4abf6039-45e7-9fad-1a34-28a0cfd87db7"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_06_the_ocean_of_fallen_leaves/3/b81e3a95-66b2-8bd9-b9f8-bb390368febd.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 3,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio-c",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_06_the_ocean_of_fallen_leaves/variation_03/b81e3a95-66b2-8bd9-b9f8-bb390368febd.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_06_the_ocean_of_fallen_leaves/variation_03/b81e3a95-66b2-8bd9-b9f8-bb390368febd.flac"
+                }
+              ],
+              "filename": "b81e3a95-66b2-8bd9-b9f8-bb390368febd"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_06_the_ocean_of_fallen_leaves/3/d55132dc-5b16-959b-1075-b3ac833b783c.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 3,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio-c",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_06_the_ocean_of_fallen_leaves/variation_03/d55132dc-5b16-959b-1075-b3ac833b783c.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_06_the_ocean_of_fallen_leaves/variation_03/d55132dc-5b16-959b-1075-b3ac833b783c.flac"
+                }
+              ],
+              "filename": "d55132dc-5b16-959b-1075-b3ac833b783c"
+            }
+          ]
+        },
+        {
+          "id": "the_mushroom_village_beneath_the_full_moon/track_07_the_last_lights_in_the_village/eae55b5500722858",
+          "title": "Track 07 The Last Lights In The Village",
+          "order": 7,
+          "prompt": "Tender contemporary chamber instrumental, 68 BPM, expressive cello, lyrical violin and warm acoustic piano. Interwoven melodic phrases, steady measured pulse, bittersweet minor harmonies gradually opening into luminous major chords, intimate emotional intensity, no percussion, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_d04584df93964efc/track_07_the_last_lights_in_the_village/1/3306ae56-0340-1171-4ee9-c0424af7cbf5.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 1,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_07_the_last_lights_in_the_village/variation_01/3306ae56-0340-1171-4ee9-c0424af7cbf5.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_07_the_last_lights_in_the_village/variation_01/3306ae56-0340-1171-4ee9-c0424af7cbf5.flac"
+                }
+              ],
+              "filename": "3306ae56-0340-1171-4ee9-c0424af7cbf5"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_07_the_last_lights_in_the_village/1/218a8f20-63f9-6fc5-83cb-544fdd472623.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 1,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_07_the_last_lights_in_the_village/variation_01/218a8f20-63f9-6fc5-83cb-544fdd472623.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_07_the_last_lights_in_the_village/variation_01/218a8f20-63f9-6fc5-83cb-544fdd472623.flac"
+                }
+              ],
+              "filename": "218a8f20-63f9-6fc5-83cb-544fdd472623"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_07_the_last_lights_in_the_village/1/f586ddc9-e471-6631-d145-e5dd95e8ef90.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 1,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_07_the_last_lights_in_the_village/variation_01/f586ddc9-e471-6631-d145-e5dd95e8ef90.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_07_the_last_lights_in_the_village/variation_01/f586ddc9-e471-6631-d145-e5dd95e8ef90.flac"
+                }
+              ],
+              "filename": "f586ddc9-e471-6631-d145-e5dd95e8ef90"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_07_the_last_lights_in_the_village/2/b38b9191-11be-93f9-9d37-0b7f35a7bc67.flac",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "generation_turn": 2,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio-b",
+              "route": "sft_lm",
+              "batch_size": 1,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_07_the_last_lights_in_the_village/variation_02/b38b9191-11be-93f9-9d37-0b7f35a7bc67.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_07_the_last_lights_in_the_village/variation_02/b38b9191-11be-93f9-9d37-0b7f35a7bc67.flac"
+                }
+              ],
+              "filename": "b38b9191-11be-93f9-9d37-0b7f35a7bc67"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_07_the_last_lights_in_the_village/3/f2774097-f7c5-8c96-3c95-be672c913daf.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 3,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio-c",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_07_the_last_lights_in_the_village/variation_03/f2774097-f7c5-8c96-3c95-be672c913daf.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_07_the_last_lights_in_the_village/variation_03/f2774097-f7c5-8c96-3c95-be672c913daf.flac"
+                }
+              ],
+              "filename": "f2774097-f7c5-8c96-3c95-be672c913daf"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_07_the_last_lights_in_the_village/3/d80ade3b-72d9-e361-9579-66b629998238.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 3,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio-c",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_07_the_last_lights_in_the_village/variation_03/d80ade3b-72d9-e361-9579-66b629998238.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_07_the_last_lights_in_the_village/variation_03/d80ade3b-72d9-e361-9579-66b629998238.flac"
+                }
+              ],
+              "filename": "d80ade3b-72d9-e361-9579-66b629998238"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_07_the_last_lights_in_the_village/3/3b4e007a-337d-c5d7-1d7d-2b5400037607.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 3,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio-c",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_07_the_last_lights_in_the_village/variation_03/3b4e007a-337d-c5d7-1d7d-2b5400037607.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_07_the_last_lights_in_the_village/variation_03/3b4e007a-337d-c5d7-1d7d-2b5400037607.flac"
+                }
+              ],
+              "filename": "3b4e007a-337d-c5d7-1d7d-2b5400037607"
+            }
+          ]
+        },
+        {
+          "id": "the_mushroom_village_beneath_the_full_moon/track_08_we_keep_playing_as_we_disappear/de355a071bfdbc45",
+          "title": "Track 08 We Keep Playing As We Disappear",
+          "order": 8,
+          "prompt": "Luminous ambient neoclassical instrumental, 66 BPM, expressive solo violin, warm cello, delicate repeating piano and soft sustained synthesizer pads. Gentle continuous pulse, affectionate interwoven melodies, rich minor-to-major harmonies, gradual warm crescendo followed by a long peaceful decrescendo, no drums, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_d04584df93964efc/track_08_we_keep_playing_as_we_disappear/1/9d47c558-0ce3-211e-1b44-2af2910954ea.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 1,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_08_we_keep_playing_as_we_disappear/variation_01/9d47c558-0ce3-211e-1b44-2af2910954ea.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_08_we_keep_playing_as_we_disappear/variation_01/9d47c558-0ce3-211e-1b44-2af2910954ea.flac"
+                }
+              ],
+              "filename": "9d47c558-0ce3-211e-1b44-2af2910954ea"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_08_we_keep_playing_as_we_disappear/1/0b80f89f-8ef0-6e22-ca5e-ade0f5e47ed9.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 1,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_08_we_keep_playing_as_we_disappear/variation_01/0b80f89f-8ef0-6e22-ca5e-ade0f5e47ed9.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_08_we_keep_playing_as_we_disappear/variation_01/0b80f89f-8ef0-6e22-ca5e-ade0f5e47ed9.flac"
+                }
+              ],
+              "filename": "0b80f89f-8ef0-6e22-ca5e-ade0f5e47ed9"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_08_we_keep_playing_as_we_disappear/1/75af26e3-1bd9-684a-419c-c3fb53a2bc94.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 1,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_08_we_keep_playing_as_we_disappear/variation_01/75af26e3-1bd9-684a-419c-c3fb53a2bc94.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_08_we_keep_playing_as_we_disappear/variation_01/75af26e3-1bd9-684a-419c-c3fb53a2bc94.flac"
+                }
+              ],
+              "filename": "75af26e3-1bd9-684a-419c-c3fb53a2bc94"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_08_we_keep_playing_as_we_disappear/2/cceda93a-a704-afc9-e92a-56bd93d840d8.flac",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "generation_turn": 2,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio-b",
+              "route": "sft_lm",
+              "batch_size": 1,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_08_we_keep_playing_as_we_disappear/variation_02/cceda93a-a704-afc9-e92a-56bd93d840d8.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_08_we_keep_playing_as_we_disappear/variation_02/cceda93a-a704-afc9-e92a-56bd93d840d8.flac"
+                }
+              ],
+              "filename": "cceda93a-a704-afc9-e92a-56bd93d840d8"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_08_we_keep_playing_as_we_disappear/3/061c6194-5514-8a4f-4a24-c5e64e998019.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 3,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio-c",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_08_we_keep_playing_as_we_disappear/variation_03/061c6194-5514-8a4f-4a24-c5e64e998019.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_08_we_keep_playing_as_we_disappear/variation_03/061c6194-5514-8a4f-4a24-c5e64e998019.flac"
+                }
+              ],
+              "filename": "061c6194-5514-8a4f-4a24-c5e64e998019"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_08_we_keep_playing_as_we_disappear/3/116b6a5c-1524-fac7-d74d-87ae8e197800.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 3,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio-c",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_08_we_keep_playing_as_we_disappear/variation_03/116b6a5c-1524-fac7-d74d-87ae8e197800.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_08_we_keep_playing_as_we_disappear/variation_03/116b6a5c-1524-fac7-d74d-87ae8e197800.flac"
+                }
+              ],
+              "filename": "116b6a5c-1524-fac7-d74d-87ae8e197800"
+            },
+            {
+              "id": "studio_batch_d04584df93964efc/track_08_we_keep_playing_as_we_disappear/3/430133e3-f801-8fa3-aa09-5df8288a83fc.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "generation_turn": 3,
+              "notebook": "asopozala/mushroom-house-ace-step-music-studio-c",
+              "route": "turbo",
+              "batch_size": 3,
+              "timestamp": 1795634951.699312,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_08_we_keep_playing_as_we_disappear/variation_03/430133e3-f801-8fa3-aa09-5df8288a83fc.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-wednesday/main/studio_batch_d04584df93964efc/track_08_we_keep_playing_as_we_disappear/variation_03/430133e3-f801-8fa3-aa09-5df8288a83fc.flac"
+                }
+              ],
+              "filename": "430133e3-f801-8fa3-aa09-5df8288a83fc"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
